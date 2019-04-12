@@ -8,6 +8,7 @@ function love.load()
     -- timer
       ms = 0
       s = 0
+      
       m = 0
       x = 0
     
