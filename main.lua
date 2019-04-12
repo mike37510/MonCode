@@ -8,15 +8,8 @@ function love.load()
     -- timer
       ms = 0
       s = 0
-
       m = 0
       x = 0
-    sss
-    dess
-    desd
-    sdsddds
-
-
 
     -- chargement des sprites repos
       monpersorepos1 = love.graphics.newImage("/monperso/idle/framer-1.png")
